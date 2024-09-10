@@ -1,0 +1,1 @@
+select sum(orderTotal) AS OrderSum from retail_order 
